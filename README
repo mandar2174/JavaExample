@@ -1,1 +1,14 @@
-Sample Example for different use-cases in java
+Sample Example for different use-case in java
+1) Convert xml to json using simple-xml and jackson-databind library
+
+
+How to use:
+Run following command once download
+
+mvn clean install
+
+mvn eclipse:eclipse 
+
+
+After running above command import above project in eclipse by selecting import exisiting maven project.
+
